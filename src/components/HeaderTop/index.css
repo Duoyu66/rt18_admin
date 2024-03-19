@@ -1,0 +1,12 @@
+.userNameStyle {
+  font-weight: bold;
+}
+.icon-my-img {
+  background-color: #fde3cf;
+  color: #f56a00;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*# sourceMappingURL=index.css.map */
